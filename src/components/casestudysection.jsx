@@ -1,4 +1,4 @@
-import Casestudycard from "./Casestudycard"
+import Casestudycard from "./Casestudycard/"
 
 export default function CasestudySection() {
     return (
